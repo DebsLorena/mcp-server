@@ -8,3 +8,7 @@ node_modules/
 
 .env
 .env.exemplo
+
+wiki_data_with_embeddings.json
+wiki_data.json
+links.js
